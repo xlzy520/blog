@@ -1,15 +1,15 @@
 # README
 
-## 蝉時雨
+## 执笔看墨花开
 
-[![Author](https://img.shields.io/badge/author-chanshiyucx-blue.svg?style=flat-square)](https://chanshiyu.com) [![Email](https://img.shields.io/badge/Emali%20me-me@chanshiyu.com-green.svg?style=flat-square)](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=tNnR9Nfc1drH3N3NwZrX29k)
+[![Author](https://img.shields.io/badge/author-%E6%89%A7%E7%AC%94%E7%9C%8B%E5%A2%A8%E8%8A%B1%E5%BC%80-blue.svg?style=flat-square)](https://chanshiyu.com) [![Email](https://img.shields.io/badge/Emali%20me-1017866168@qq.com-green.svg?style=flat-square)](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=tNnR9Nfc1drH3N3NwZrX29k)
 
-| 目录 | 描述                                                               |
-| :--- | :----------------------------------------------------------------- |
-| 時雨 | 日常博文，无法归入以下类目                                         |
-| 书斋 | 读书笔记，摘要读书过程中的知识要点和想法感悟                       |
+| 目录 | 描述                                                         |
+| :--- | :----------------------------------------------------------- |
+| 执笔 | 日常博文，无法归入以下类目                                   |
+| 书斋 | 读书笔记，摘要读书过程中的知识要点和想法感悟                 |
 | 前端 | 前端知识库，包括且不限于 JavaScript、Nodejs、React、Vue 等知识总结 |
-| 后端 | 后端知识库，包括且不限于 Java、Spring、Linux 等知识总结            |
+| 后端 | 后端知识库，包括且不限于 Java、Spring、Linux 等知识总结      |
 
 - 時雨
   - 2017
