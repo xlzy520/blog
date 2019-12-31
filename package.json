@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "blog repository",
+  "main": "index.js",
+  "repository": "https://github.com/xlzy520/blog.git",
+  "author": "xlzy <1017866168@qq.com>",
+  "scripts": {
+    "syncIssue": "node utils/pre-commit.js"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "pre-commit": "yarn run syncIssue"
+    }
+  },
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@commitlint/cli": "^8.2.0",
+    "husky": "^3.1.0",
+    "log-symbols": "^3.0.0"
+  }
+}
