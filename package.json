@@ -11,7 +11,7 @@
   "husky": {
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
-      "post-commit": "npm run syncIssue"
+      "pre-commit": "npm run syncIssue"
     }
   },
   "license": "MIT",
